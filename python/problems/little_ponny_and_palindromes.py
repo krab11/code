@@ -1,3 +1,8 @@
+# Given a string A consisting only of lowercase characters.
+# You can swap any two characters of the string A any number of times, you have to check whether it is possible to convert the string A to a palindromic string.
+# Return 1 if it is possible to else return 0.
+
+
 class Solution:
     # @param A : string
     # @return an integer
