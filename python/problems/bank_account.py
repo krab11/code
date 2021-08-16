@@ -17,7 +17,6 @@ def main():
             else:
               balance = balance - amt
         print(balance)
-
     return 0
 
 if __name__ == '__main__':
